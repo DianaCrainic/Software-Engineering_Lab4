@@ -1,4 +1,4 @@
-public class Analist {
+public class Analist extends Utilizator {
 
     /**
    * 
